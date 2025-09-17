@@ -1,1 +1,1 @@
-streamit demo
+streamlit demo
